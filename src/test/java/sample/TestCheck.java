@@ -6,6 +6,8 @@ public class TestCheck {
 		
 		System.out.println("Test pass");
 		
+		System.out.println("Additional Test added");
+		
 	}
 
 }
